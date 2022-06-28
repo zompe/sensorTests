@@ -1,2 +1,2 @@
-# sensor-tests
+# sensorTests
 short programs for testing different sensors
